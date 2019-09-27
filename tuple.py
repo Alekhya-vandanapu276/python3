@@ -1,0 +1,6 @@
+a=("aa","bb","cc","dd","a")
+print(a)
+print(a[3:5])
+print(a*2)
+b=("pan","man","can","ban","lan")
+print(a+b)
